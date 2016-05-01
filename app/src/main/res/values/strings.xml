@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">COITest</string>
+    <string name="button2">Open Second Activity</string>
+    <string name="title_activity_second">Second Activity</string>
 </resources>
